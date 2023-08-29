@@ -85,10 +85,6 @@ course: compsci
 
 
 
-
-
-
-
 <h2>
   Unit1: Build a Lab Notebook
 </h2>
@@ -107,23 +103,6 @@ course: compsci
     <th>Tangibles</th>
   </tr>
 
-  
-
-    
-   
-   
-
-  
-    
-    
-
-
-  
-
-    
-
-  
-  
 
   
   <tr>
@@ -156,16 +135,7 @@ course: compsci
   </td>
   </tr>
   
-    
-    
-
-
-  
-
-    
-
-  
-  
+     
 
   
   <tr>
@@ -197,18 +167,7 @@ course: compsci
       
   </td>
   </tr>
-  
-    
-    
-
-
-  
-
-    
-
-  
-  
-
+   
   
   <tr>
   <td> 2 </td> 
@@ -227,17 +186,7 @@ course: compsci
       
   </td>
   </tr>
-  
     
-    
-
-
-  
-
-    
-
-  
-  
 
   
   <tr>
@@ -282,24 +231,6 @@ course: compsci
   </tr>
 
   
-
-    
-   
-   
-
-  
-    
-    
-
-
-  
-
-    
-
-  
-  
-
-  
   <tr>
   <td> 4 </td> 
   <td>
@@ -318,18 +249,6 @@ course: compsci
   </td>
   </tr>
   
-    
-    
-
-
-  
-
-    
-
-  
-  
-
-  
   <tr>
   <td> 5 </td> 
   <td>
@@ -347,19 +266,7 @@ course: compsci
       
   </td>
   </tr>
-  
-    
-    
 
-
-  
-
-    
-
-  
-  
-
-  
   <tr>
   <td> 6 </td> 
   <td>
@@ -376,20 +283,7 @@ course: compsci
   
       
   </td>
-  </tr>
-  
-    
-    
-
-
-  
-
-    
-
-  
-  
-
-  
+  </tr>  
   <tr>
   <td> 7 </td> 
   <td>
