@@ -4,6 +4,7 @@ comments: false
 layout: post
 title: Daily Plan Sample
 description: Example Blog!!!  This shows planning and notes from hacks.
+hide: true
 type: plans
 courses: { compsci: {week: 0} }
 ---
