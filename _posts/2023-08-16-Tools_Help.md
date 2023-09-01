@@ -1,11 +1,4 @@
----
-toc: false
-comments: false
-hide: true
-layout: post
-type: help
-title: Tool References
----
+
 
 ### `Visual Studio Code` [Overview](https://code.visualstudio.com/docs/introvideos/basics)
 

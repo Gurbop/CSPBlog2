@@ -1,13 +1,3 @@
----
-toc: true
-comments: false
-layout: post
-title: More Detail Plan
-description: Example Plan!!! Analyze hacks and plan.
-type: plans
-courses: { compsci: {week: 1} }
----
-
 ### PBL Unit 1 / Week 1
 Learning outcome. Building a personal and running GitHub Pages.
 - Monday: Schedule Live Review - 4 minutes. Finish Tools setup. Attend Office Hours on HTML, CSS, JS and Student Blog.
