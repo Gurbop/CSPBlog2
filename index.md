@@ -3,7 +3,32 @@ layout: default
 title: Student Blog
 ---
 <style>
-  backgroud-color: solid blue;
+  p{font-family: sans-serif;}
+  hr{background-color: blue}
+  .color{color: #8EE3F0;}
+  body {
+    padding: 25px;
+    background-color: #8ee3f0;
+    color: #1f973b;
+    font-size: 16px;
+    transition-duration: 0.2s;
+  }
+  hr{background-color:blue }
+  .board {
+      display: grid;
+      grid-template-columns: repeat(3, 100px);
+      grid-gap: 2px;
+    }
+    .cell {
+      width: 100px;
+      height: 100px;
+      border: 1px solid blue;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      cursor: pointer;
+    }
 </style>
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
