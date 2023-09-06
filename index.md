@@ -30,6 +30,27 @@ title: Student Blog
       cursor: pointer;
     }
 </style>
+<script>
+  
+var IsLoggedIn1 = "true";
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  var elem = document.querySelectorAll("#border");
+  elem.forEach(function(border) {
+    border.classList.toggle("border-dark");
+    });
+  var bars = document.querySelectorAll("#bar");
+  bars.forEach(function(bar) {
+    bar.classList.toggle("bar-dark");
+    });
+  var cellz = document.querySelectorAll("#cells");
+  cellz.forEach(function(cells) {
+    cells.classList.toggle("cell");
+    cells.classList.toggle("cells-dark");
+    });
+}
+</script>
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
 <head>About Me:</head>
