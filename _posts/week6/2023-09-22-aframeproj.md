@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: 3D Aframe
 description: gy
-type: plans
+type: hacks
 courses: { compsci: {week: 5} }
 --- 
 <html>
