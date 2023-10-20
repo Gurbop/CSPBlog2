@@ -1,4 +1,4 @@
----
+#---
 toc: True
 comments: True
 layout: post
@@ -7,7 +7,7 @@ description: Lesson for iteration in Python, using College Board lessons 3.7 & 3
 type: tangibles
 author: Advik Garg, Srijan Atti, Akhil Singamneni, Aashray Rajagopalan
 courses: {'compsci': {'week': 7}}
----
+#---
 
 # Introduction
 In this lesson, we will explore the various ways to create loops in Python. Loops are essential for repetitive tasks and are a fundamental concept in programming. We will cover different types of loops, advanced loop techniques, and how to work with lists and dictionaries using loops.
