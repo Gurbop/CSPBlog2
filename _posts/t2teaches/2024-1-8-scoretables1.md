@@ -64,7 +64,7 @@ type: tangibles
       <td>Undecided Problems</td>
       <td>0.85</td>
       <td>Justin</td>
-      <td>N/A below 0.9</td>
+      <td>I looked at the different types of undecided problems from the lesson and how they work.</td> 
       <td>Google Form and response</td>
     </tr>
     <tr>
@@ -93,6 +93,6 @@ type: tangibles
       <td>Median Score:0.93</td>
       <td>Number complete:9/9</td>
       <td>Extra effort count:6/7</td>
-      <td>Key tangible assets count:9/9</td>
+      <td>Key tangible assets count:9/9 </td>
       <td></td>
     </tr>
