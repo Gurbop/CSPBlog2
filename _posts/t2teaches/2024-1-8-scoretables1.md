@@ -83,7 +83,7 @@ type: tangibles
     </tr>
     <tr>
       <td>CB Quiz</td>
-      <td>1.89</td>
+      <td>1.89, 59/67</td>
       <td>Mr. M</td>
       <td>I fixed my page after feedback, and took time to learn the topics.</td>
       <td>College Board</td>
