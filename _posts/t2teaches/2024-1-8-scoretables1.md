@@ -26,7 +26,7 @@ type: tangibles
     </tr>
     <tr>
       <td>Routing and Computing</td>
-      <td>1(synergy grade)</td>
+      <td>1(synergy grade), 0.93(team review)</td>
       <td>Group</td>
       <td>I created the second part of the lesson which went over the second routing video, and used college board sample problems and images to create a lesson that can be useful.</td>
       <td>Lesson Completed</td>
