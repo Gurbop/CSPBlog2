@@ -86,7 +86,7 @@ type: tangibles
       <td>1.89, 59/67</td>
       <td>Mr. M</td>
       <td>I fixed my page after feedback, and took time to learn the topics.</td>
-      <td>College Board</td>
+      <td>College Board, <a href = "https://gurbop.github.io/CSPBlog2//2023/12/21/cb2.html">Review</a></td>
     </tr>
     <tr>
       <td>Totals</td>
