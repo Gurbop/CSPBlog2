@@ -3,8 +3,8 @@ toc: False
 layout: post
 hide: False
 title: Student Teaching Part 2 Table
-courses: {'compsci': {'week': 15}}
-type: tangibles
+courses: {compsci: {week: 15}}
+type: hacks
 ---
 <html>
 <table>
