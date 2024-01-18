@@ -3,7 +3,7 @@ toc: False
 layout: post
 hide: False
 title: Individual Review
-courses: {'compsci': {'week': 96}}
+courses: {compsci: {week: 19}}
 type: tangibles
 ---
 # College Board Reviews
@@ -18,3 +18,4 @@ type: tangibles
 
 <a href = "https://gurbop.github.io/CSPBlog2/blogs">Link to Blog With Student Teaches</a>
 <a href = "https://gurbop.github.io/CSPBlog2/compsci">Timebox</a>
+<a href = "https://gurbop.github.io/CSPBlog2//2024/01/08/scoretables1.html">Scores</a>
