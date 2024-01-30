@@ -18,4 +18,4 @@ type: tangibles
 
 <a href = "https://gurbop.github.io/CSPBlog2/blogs">Link to Blog With Student Teaches</a>
 <a href = "https://gurbop.github.io/CSPBlog2/compsci">Timebox</a>
-<a href = "https://gurbop.github.io/CSPBlog2//2024/01/08/scoretables1.html">Scores</a>
+<a href = "https://gurbop.github.io/CSPBlog2//2024/01/08/scoretables1.html">Scores TEST COMMIT</a> 
