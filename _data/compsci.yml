@@ -9,3 +9,7 @@ Unit2:
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
   end: 24
+Unit3:
+  title: Tri 3
+  start: 24
+  end: 36
