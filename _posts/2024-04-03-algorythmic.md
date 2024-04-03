@@ -32,5 +32,8 @@ type: tangibles
 - repeat process for the number of elements in a list
 - time complexity O^2
 - student example: what order were the people killed in
+
+## Conclusion:
+All the playes at the showcase were very entertaining especially the murder mystery one a the end. It was a fun way for me to understand the different types of searches that are used to develop code procedures.
 ![At Event](/CSPBlog2/images/me.jpg)
 ![Event](/CSPBlog2/images/event.jpg)
